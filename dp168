@@ -1,0 +1,5 @@
+consonants = 'mnlkfg'
+vowels = 'aou'
+
+for letter in contanants, vowels:
+	print letter
